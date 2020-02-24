@@ -24,6 +24,10 @@ Better documentation, linting, and other stuff, and cleanup, and I use this for 
 
 Any feedback/recommendations is greatly appreciated.
 
+### your documentation is super poor, spoon feed me the project setup...
+
+K, clone [this repo](https://github.com/sethomas/monotony_usage), fish around, use it as yours, enjoy
+
 ### basic usage:
 
 1. `npm install monotony --save`
