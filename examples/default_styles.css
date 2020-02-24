@@ -1,0 +1,13 @@
+.home {
+	font-weight: 700;
+	margin-bottom: 15px;
+}
+
+.home,
+.links {
+	display: block;
+}
+
+.links {
+	margin-bottom: 2px;
+}
